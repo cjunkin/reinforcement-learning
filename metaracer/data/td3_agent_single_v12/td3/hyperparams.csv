@@ -1,0 +1,2 @@
+,lr,explore_noise,batch_size,discount,tau,policy_noise,noise_clip,policy_freq,crash_penalty,success_reward,speed_reward
+0,5e-05,0.1,256,0.99,0.005,0.2,0.5,2,50,200,5

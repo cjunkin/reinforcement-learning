@@ -1,0 +1,2 @@
+,log_dir,frame_per_second,episode_reward,policy_loss,entropy,value_loss,total_loss,grad_norm,adv_mean,ratio,total_steps,total_episodes,iteration,total_time,success_rate
+0,/Users/cjpark/Desktop/ucla_courses/CS260R/assignment3/data/ppo,2581,2.09044543037933,-0.006154290238956515,2.801787714774792,0.08922150847143852,0.08306721802532244,0.9275252969983296,0.1611870378255844,0.9994378400154603,20000,96,0,7.748745918273926,0.0

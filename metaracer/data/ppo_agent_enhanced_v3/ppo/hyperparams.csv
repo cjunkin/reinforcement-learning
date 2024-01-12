@@ -1,0 +1,2 @@
+,crash_sidewalk_penalty,success_reward,speed_reward,driving_reward,idle_penalty,out_of_road_penalty,crash_vehicle_penalty
+0,75,100,30,1,1000,75,-10
